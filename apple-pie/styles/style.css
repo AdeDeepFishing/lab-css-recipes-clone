@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.6;
+    background-color: #fff8f2;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    color: #884422;
+  }
+  
+  h2 {
+    margin-top: 2rem;
+    color: #bb5a2b;
+  }
+  
+  ul, ol {
+    padding-left: 1.5rem;
+  }
+  
+  li {
+    margin-bottom: 0.5rem;
+  }
+  
